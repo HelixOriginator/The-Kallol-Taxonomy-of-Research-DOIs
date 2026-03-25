@@ -1,0 +1,16 @@
+# Robots.txt for The-Kallol-Taxonomy-of-Research-DOIs
+# Created by Kallol Chakrabarti | Global Independent Researcher
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /ABSTRACT.md
+Allow: /CITE.md
+Allow: /Kallol_Research_Bibliography_260_DOIs.docx
+
+# Disallow system or temporary folders (if any)
+Disallow: /assets/private/
+Disallow: /drafts/
+
+# Link to the Sitemap to help search engines find the Taxonomy layers
+Sitemap: https://helixoriginator.github.io/The-Kallol-Taxonomy-of-Research-DOIs/sitemap.xml
